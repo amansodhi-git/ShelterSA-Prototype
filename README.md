@@ -11,4 +11,6 @@ Running the Application on a Local Server
 1) Open a terminal and navigate to the clone Shelter SA repo, and execute the command "npm run dev" to create and run the local server.
 2) Open a browser and nivagate to localhost:5000 to see the application.
 
+Any account registered on the application is stored on MongoDB and will be removed automatically after seven days. 
+
 Thank you
